@@ -1,0 +1,17 @@
+********************pseudocode********************
+
+//user enters number
+
+Input userdefined 
+Initialize:oddNo = 1
+		   counter=0
+		   sum=0
+
+FOR oddNo=1; oddNo<=userdefined; oddNo +2
+
+		   outpuut oddNo
+		   counter++
+		   sum=sum+oddNo
+		   
+avg=sum/counter
+output avg
